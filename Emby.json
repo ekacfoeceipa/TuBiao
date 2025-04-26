@@ -1,0 +1,33 @@
+{
+"name":"Emby图标", 
+"description":"图标按照Emby服名英文或中文拼音命名。", 
+"icons":
+    [
+	{"name":"喜鹊Magpie", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/Magpie.jpg"},
+	{"name":"AlphaTVPro", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/AlphaTVPro.jpg"},
+	{"name":"SaturdayXperience", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/SaturdayXperience.jpeg"},
+	{"name":"微光DimLight", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/DimLight.jpg"},
+	{"name":"映月Moon", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/Moon.jpg"},
+	{"name":"鸢尾Iris", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/Iris.jpg"},
+	{"name":"HXD", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/HXD.jpg"},
+	{"name":"墨云阁", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/MoYunGe.jpg"},
+	{"name":"桃子Peach", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/Peach.jpg"},
+	{"name":"1111", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/1111.jpeg"},
+	{"name":"AlphaTV", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/AlphaTV.jpg"},
+	{"name":"月饼Mooncake", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/Mooncake.jpg"},
+	{"name":"SaturdayLite", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/SaturdayLite.jpeg"},
+	{"name":"Lily", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/Lily.jpg"},
+	{"name":"叶子追新", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/YeZiZhuiXin.jpg"},
+	{"name":"叶子高码", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/YeZiGaoMa.jpeg"},
+	{"name":"卷毛鼠JMS", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/JMS.jpg"},
+	{"name":"AlphaTVKid", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/AlphaTVKid.jpg"},
+	{"name":"Polo", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/Polo.jpg"},
+	{"name":"守候SNTP", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/SNTP.jpeg"},
+	{"name":"云海Oceancloud", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/Oceancloud.jpg"},
+	{"name":"ntRRR", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/ntRRR.jpeg"},	
+	{"name":"哪吒", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/NeZha.jpeg"},
+	{"name":"HXDNSFW", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/HXDNSFW.jpg"},
+	{"name":"云海OceancloudNSFW", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/OceancloudNSFW.jpg"},
+	{"name":"AlphaTVX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/EmbyTuBiao/main/TuBiao/AlphaTVX.jpg"},
+    ]
+}
