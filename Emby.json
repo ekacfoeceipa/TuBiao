@@ -4,7 +4,7 @@
 "icons":
     [
 	{"name":"喜鹊", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Magpie.jpeg"},
-	{"name":"ATVO", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVO.jpeg"},
+	{"name":"Omega", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Omega.jpeg"},
 	{"name":"ATVP", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVP.jpeg"},
 	{"name":"SDX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/SDX.jpeg"},
 	{"name":"微光", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/DimLight.jpeg"},
@@ -24,11 +24,11 @@
 	{"name":"ATVK", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVK.jpeg"},
 	{"name":"Polo", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Polo.jpeg"},
 	{"name":"守候影院", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/SNTP.jpeg"},
-	{"name":"云海", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Oceancloud.jpg"},
+	{"name":"云海", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Oceancloud.jpeg"},
 	{"name":"ntRRR", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ntRRR.jpeg"},	
 	{"name":"哪吒", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Nezha.jpeg"},
 	{"name":"HXDNSFW", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/HXDNSFW.jpeg"},
-	{"name":"云海NSFW", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/OceancloudNSFW.jpg"},
-	{"name":"ATVX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVX.jpg"},
+	{"name":"云海NSFW", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/OceancloudNSFW.jpeg"},
+	{"name":"ATVX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVX.jpeg"},
     ]
 }
