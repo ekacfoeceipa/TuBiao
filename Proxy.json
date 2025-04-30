@@ -3,22 +3,22 @@
 "description":"图标按照Proxy英文或中文拼音命名。", 
 "icons":
     [
-	{"name":"哪吒云", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/NZY.jpeg"},
-	{"name":"赔钱机场", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/PQJC.jpeg"},
 	{"name":"云海互联", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/YHHL.jpeg"},
+	{"name":"赔钱机场", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/PQJC.jpeg"},
+	{"name":"哪吒云", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/NZY.jpeg"},
 	{"name":"魔法云", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/MFY.jpeg"},
 	{"name":"阿尔法", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/Alphaio.jpeg"},
-	{"name":"一元中转", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/YYZZ.jpeg"},
+	{"name":"守候网络", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/SNTP.jpeg"},	
 	{"name":"SYN", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/SYN.jpeg"},
 	{"name":"RM", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/RM.jpeg"},
+	{"name":"一元中转", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/YYZZ.jpeg"},
 	{"name":"阿拉丁", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/ALD.jpeg"},
 	{"name":"FM", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/FM.jpeg"},
 	{"name":"XFL", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/XFL.jpeg"},
 	{"name":"XSUS", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/XSUX.jpeg"},
-	{"name":"好鸭", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/NiceDuck.jpeg"},
 	{"name":"KD", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/KD.jpeg"},
-	{"name":"69云", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/69Y.jpeg"},
+	{"name":"好鸭", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/NiceDuck.jpeg"},
 	{"name":"菠萝蜜", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/BLM.jpeg"},
-	{"name":"守候网络", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/SNTP.jpeg"},
+	{"name":"69云", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Proxy/69Y.jpeg"},
     ]
 }
