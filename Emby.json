@@ -4,15 +4,15 @@
 "icons":
     [
 	{"name":"喜鹊", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Magpie.jpeg"},
-	{"name":"ATVO", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVO.jpeg"},
-	{"name":"ATVP", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVP.jpeg"},
+	{"name":"ATVO", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Omega.jpeg"},
+	{"name":"ATVP", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/AlphaPro.jpeg"},
 	{"name":"SDX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/SDX.jpeg"},
 	{"name":"微光", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/DimLight.jpeg"},
 	{"name":"映月", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Moon.jpeg"},
 	{"name":"星烁", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/XingShuo.jpeg"},	
 	{"name":"鸢尾", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Iris.jpeg"},
 	{"name":"墨云阁", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/MoYunGe.jpeg"},
-	{"name":"ATV", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATV.jpeg"},
+	{"name":"ATV", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Alpha.jpeg"},
 	{"name":"HXD", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/HXD.jpeg"},
 	{"name":"桃子", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Peach.jpeg"},
 	{"name":"1111", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/1111.jpeg"},
@@ -24,7 +24,7 @@
 	{"name":"叶子高码", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/YeziGM.jpeg"},
 	{"name":"Lily", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Lily.jpeg"},
 	{"name":"紫罗兰", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Violet.jpeg"},	
-	{"name":"ATVK", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVK.jpeg"},
+	{"name":"ATVK", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/AlphaKid.jpeg"},
 	{"name":"Polo", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Polo.jpeg"},
 	{"name":"守候影院", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/SNTP.jpeg"},
 	{"name":"云海", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Oceancloud.jpeg"},
@@ -33,6 +33,6 @@
 	{"name":"哪吒", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/NeZha.jpeg"},
 	{"name":"HXDNSFW", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/HXDNSFW.jpeg"},
 	{"name":"云海NSFW", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/OceancloudNSFW.jpeg"},
-	{"name":"ATVX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVX.jpeg"},
+	{"name":"ATVX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/AlphaX.jpeg"},
     ]
 }
