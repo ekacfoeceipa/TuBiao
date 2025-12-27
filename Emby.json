@@ -3,7 +3,7 @@
 "description":"图标按照Emby服名英文或中文拼音命名。", 
 "icons":
     [
-	{"name":"喜鹊", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Magpie.jpeg"},
+	{"name":"ATVO", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVO.jpeg"},
 	{"name":"ATVP", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVP.jpeg"},
 	{"name":"SDX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/SDX.jpeg"},
 	{"name":"映月", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Moon.jpeg"},
@@ -27,7 +27,6 @@
 	{"name":"月饼", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/Mooncake.jpeg"},
 	{"name":"星烁", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/XingShuo.jpeg"},
 	{"name":"星瀚", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/XingHan.jpeg"},
-	{"name":"ntRRR", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ntRRR.jpeg"},
 	{"name":"ATVX", "url":"https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/ATVX.jpeg"},
     ]
 }
